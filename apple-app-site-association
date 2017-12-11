@@ -5,6 +5,10 @@
     {
       "appID": "LJWXLB2RTC.uk.dreamwings.CanDoHelper",
       "paths": ["*"]
+    },
+    {
+      "appID": "LJWXLB2RTC.ie.dreamwings.CanDo",
+      "paths": ["*"]
     }
     ]
   }
